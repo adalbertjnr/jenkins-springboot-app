@@ -12,10 +12,10 @@
 <br>
 
 **Repositório contendo a biblioteca compartilhada para o Jenkins:**
+
 ```
 https://github.com/souzagmu/jenkins-shared-library
 ```
-<br>
 
 ## Lembrando que o projeto em springboot foi disponibilizado pela Alura para a segunda semana do DevOps Challenge.
 
